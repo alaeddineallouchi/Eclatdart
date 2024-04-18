@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../3a39-abc/.idea/3a39-abc.iml" filepath="$PROJECT_DIR$/../3a39-abc/.idea/3a39-abc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Eclat_dart.iml" filepath="$PROJECT_DIR$/.idea/Eclat_dart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FirstProject/.idea/FirstProject.iml" filepath="$PROJECT_DIR$/../FirstProject/.idea/FirstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qatar/.idea/qatar.iml" filepath="$PROJECT_DIR$/../qatar/.idea/qatar.iml" />
+    </modules>
+  </component>
+</project>
